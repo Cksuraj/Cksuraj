@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Suraj Chaudhary</h1>
-<h3 align="center">A passionate Developer from India. I like to solve real world problams with the Knowlege of CODE.</h3>
+<h3 align="center">A passionate Developer from India. I like to solve real-world problems with the knowledge of CODE.</h3>
 
-- 🔭 I’m currently working on **Portfolio project**
+- 🔭 I’m currently working on ** React.js Project **
 
-- 🌱 I’m currently learning **Full Stack Development, DSA with Java Programming Laungauage**
+- 🌱 I’m currently learning **Full Stack Web- Development and DSA with Java Programming Language**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **new ideas and projects**
 
-- 💬 Ask me about **Web-site Development , Business Solutions and Investment**
+- 💬 Ask me about **Website Development, Business Solutions, and Investment**
 
 - 📫 How to reach me **sjchaudhary00@gmail.com**
 
