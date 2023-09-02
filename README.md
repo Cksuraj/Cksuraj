@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on ** React.js Project **
 
-- 🌱 I’m currently learning **Full Stack Web- Development and DSA with Java Programming Language**
+- 🌱 I’m currently learning ** MERN Stack -Development and DSA Programming Language**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **new ideas and projects**
 
-- 💬 Ask me about **Website Development, Business Solutions, and Investment**
+- 💬 Ask me about ** Website Development, Business Solutions, and Investment**
 
 - 📫 How to reach me **sjchaudhary00@gmail.com**
 
