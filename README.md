@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Chaudhary</h1>
 <h3 align="center">A passionate Developer from India. I like to solve real-world problems with the knowledge of CODE.</h3>
 
-- 🔭 I’m currently working on ** React.js Project **
+- 🔭 I’m currently working on ** MERN Stack Project **
 
 - 🌱 I’m currently learning ** MERN Stack -Development and DSA Programming Language**
 
