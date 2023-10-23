@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Suraj Chaudhary</h1>
+<h1 align="center">Hi , I'm Suraj Chaudhary</h1>
 <h3 align="center">A passionate Developer from India. I like to solve real-world problems with the knowledge of CODE.</h3>
 
-- 🔭 I’m currently working on ** MERN Stack Project **
+- 🔭 I’m currently working on ** MERN Project **
 
-- 🌱 I’m currently learning ** MERN Stack -Development and DSA Programming Language**
+- 🌱 I’m currently learning ** Full Stack Development and DSA with JAVA **
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **new ideas and projects**
+- 🤝 I’m Interested to help with **new ideas and projects**
 
-- 💬 Ask me about ** Website Development, Business Solutions, and Investment**
+- 💬 Ask me about ** Website Development, Business Solutions, and Investment **
 
 - 📫 How to reach me **sjchaudhary00@gmail.com**
 
-- ⚡ Fun fact **One line of code can change the entire execution flow**
+- ⚡ Fun fact **One line of code can change can change Programm Execution**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
